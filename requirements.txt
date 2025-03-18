@@ -4,3 +4,4 @@ python-dotenv
 Pillow 
 groq
 mistralai
+pypdf2
