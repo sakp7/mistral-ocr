@@ -11,7 +11,7 @@ import io
 load_dotenv()
 
 # Initialize the Mistral client with your API key
-api_key = os.getenv('MISTRAL_API_KEY')
+api_key = st.secrets['MISTRAL_API_KEY']
 client = Mistral(api_key=api_key)
 
 # Function to encode image to base64
