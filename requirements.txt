@@ -3,7 +3,7 @@ langchain_core==0.3.45
 langchain_groq==0.2.5
 mistralai==1.5.1
 
-Pillow==11.1.0
+Pillow==7.5
 PyPDF2==3.0.1
 python-dotenv==1.0.1
 streamlit==1.25.0
