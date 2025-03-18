@@ -103,7 +103,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Streamlit UI
-st.title("Mistral OCR and Chat with PDF and Image Support")
+st.title("Mistral OCR and Vision Models")
 
 model_options = {
     "mistral-ocr-latest": "mistral-ocr-latest",
